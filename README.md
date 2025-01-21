@@ -103,7 +103,7 @@ To contribute to TedBus, follow these steps:
 
 ## Contact
 
-If you want to contact me, you can reach me at [girishmaharana42@gmail.com ].
+If you want to contact me, you can reach me at [chanduparella313@gmail.com ].
 
 ## Acknowledgments
 
